@@ -21,6 +21,7 @@ What steps are you going to take to build it? What tools are you going to use? W
   - For keycaps, if I can design and manufacture custom acrylic keycaps that would be amazing, but if not I'll stick with finding a reputable company.
   - For switches I'll have to (once again) do more research, though I already have a little bit of prior knowledge on switches.
   - I'm considering not even making a case (or a minimal one at that). I might just make a acrylic backplate for PCB standoffs to rest on, and some more acrylic to diffuse the LEDs.
+- I will definitely need to learn how to solder (or at least, learn how to solder efficiently) and also review the steps to creating a keyboard in general.
 
 ## Budget
 
