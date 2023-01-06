@@ -3,7 +3,7 @@ name: "@Argentum047"
 project: "Sick Open Source Mechanical Keyboard Design"
 ---
 
-# Open Source Mechanical Keyboard
+# Open Source Mechanical Keyboard (PROJECT IN PLANNING, NOT YET READY TO BEGIN)
 
 ## The design and planning of a custom mechanical keyboard built from the ground up; everything is (mostly) going to be designed from scratch (some parts just not worth designing because they already exist on the market). I also plan to make this as cheap and affordable as possible, so people can just get all of the parts themselves and then assemble it.
 
